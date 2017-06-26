@@ -1,0 +1,4 @@
+name|Szczyrk
+description|17-20 lutego
+author|Marcin Malinowski
+date|17.02.2005
