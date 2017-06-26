@@ -94,7 +94,7 @@ $scnamegallery = "Photo Gallery Index";
 ## Gallery Directory
 # This is a path relative to the directory where original is installed
 # eg. it can be "../galleries" to use a galleries dir above the original dir.
-  $gallery_dir="../../galleries";
+  $gallery_dir="./galleries";
 
 # This controls wheather web visitors will be able to post
 # comments to images
